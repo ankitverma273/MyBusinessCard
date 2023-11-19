@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Business card</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="share_profile">share Profile</string>
+    <string name="name">Ankit Verma</string>
+    <string name="designation">Android Developer</string>
+    <string name="twitter_id">Twitter Id</string>
+    <string name="twitter_handle">twitter.com/vermaankit27</string>
+    <string name="github_id">Github Id</string>
+    <string name="github_handle">github.com/ankitverma273</string>
+    <string name="whatsapp_number">Whatsapp number</string>
+    <string name="number">+91 9104146947</string>
+    <string name="linkedin_id">linkedin id</string>
+    <string name="email_id">email id</string>
+    <string name="gmail_id">ankitverma@duck.com</string>
+</resources>
